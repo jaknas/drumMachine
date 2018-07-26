@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#display {
+  font-size: 48px;
+  border: 1px solid red;
+}
+
+.drum-pad {
+  border: 2px solid blue;
+}
