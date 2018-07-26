@@ -1,9 +1,7 @@
-# drumMachine
-react drum machine
 
 ### drum machine created for fcc project
 
-not done yet. need to figure out how to elegantly solve case with 9 different key presses, without creating multiple components.
+### not done yet. need to figure out how to elegantly solve case with 9 different key presses, without creating multiple components.
 ===
 
 Creating this project I have learned:
