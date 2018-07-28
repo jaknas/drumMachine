@@ -50,6 +50,7 @@ const DrumPad = props => {
 				break;
 			case "kick":
 				letter[3].play();
+				// more coming, only temporary solution.
 				console.log((document.getElementById("display").innerText = "cymbal"));
 				break;
 		}
