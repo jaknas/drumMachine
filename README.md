@@ -11,7 +11,7 @@ Creating this project I have learned:
 
 You dont have to add event listeners like in vanilla js, react has defined specific event for each case.
 
-Struggled with it, because event listeners woult throw error because component wasn't rendered to DOM yet.
+Struggled with it, because event listeners would throw error because component wasn't rendered to DOM yet.
 
 
 
